@@ -1,16 +1,11 @@
-# 👋 Hi there! I'm Brian Cheruiyot (@CheruiyotSeasoned)
+# 👋 Hi there! I'm Brian Cheruiyot
 
 ---
-
-# 🚀 The Journey of a Tech Innovator
-
----
-
 <div align="center">
 
 | The Story | Daily.dev Card |
 |-----------|----------------|
-| <div align="left"> **🧠 The Dreamer** <br> From the highlands of ideas to the valleys of execution, I, <strong>Brian Cheruiyot</strong>, embark on a relentless journey of learning and innovation. <br><br> **🔥 The Backend Artisan** <br> With a solid foundation in <strong>Java Spring Boot</strong> and <strong>PHP</strong> (especially CodeIgniter), I specialize in crafting scalable backend systems that drive seamless user experiences. <br><br> **💻 The Builder** <br> Beyond backend systems, I develop responsive and engaging websites and dive into **Java for Android** to create mobile applications that solve real-world problems. <br><br> Every line of code I write is a step toward building sustainable and smarter solutions that make life easier. | <a href="https://app.daily.dev/briancheruiyot"><img src="https://api.daily.dev/devcards/v2/007AefkoQQQNDSvAju1KA.png?type=default&r=ito" width="350" alt="Brian Cheruiyot's Dev Card"/></a> |
+| <div align="left"> **🧠 The Dreamer** <br> From the highlands of ideas to the valleys of execution, I, <strong>Brian Cheruiyot</strong>, embark on a relentless journey of learning and innovation. <br><br> **🔥 The Backend Artisan** <br> With a solid foundation in <strong>Java Spring Boot</strong> and <strong>PHP</strong> (especially CodeIgniter), I specialize in crafting scalable backend systems that drive seamless user experiences. <br><br> **💻 The Builder** <br> Beyond backend systems, I develop responsive and engaging websites and dive into **Java for Android** to create mobile applications that solve real-world problems. <br><br> Every line of code I write is a step toward building sustainable and smarter solutions that make life easier. | <a href="https://app.daily.dev/briancheruiyot"><img src="https://api.daily.dev/devcards/v2/007AefkoQQQNDSvAju1KA.png?type=wide&r=ito" width="652" alt="Brian Cheruiyot's Dev Card"/></a> |
 </div>
 
 ---
