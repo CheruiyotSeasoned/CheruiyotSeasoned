@@ -2,28 +2,17 @@
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <h3>🚀 The Journey of a Tech Innovator</h3>
-      <p>From the highlands of ideas to the valleys of execution, I, <strong>Brian Cheruiyot</strong>, embark on a relentless journey of learning and innovation. 🌍</p>
+# 🚀 The Journey of a Tech Innovator
 
-      <h4>🧠 The Dreamer</h4>
-      <p>Ever since I can remember, the idea of merging technology with the goal of improving lives has been my compass. I'm fascinated by <strong>Artificial Intelligence</strong>, <strong>Clean Technology</strong>, and the promise they hold for building a sustainable and smarter world. It's not just about writing code; it's about solving real-world problems and pushing the boundaries of what's possible.</p>
+---
 
-      <h4>🔥 The Learner</h4>
-      <p>In the tech ecosystem, standing still means falling behind. That’s why I’m sharpening my expertise in <strong>JavaScript frameworks</strong>, building robust and scalable applications, and exploring how AI can enhance them. With each challenge I solve, I take another step toward mastering the art of development.</p>
+<div align="center">
 
-      <h4>🌐 The Collaborator</h4>
-      <p>I believe in the power of community. GitHub isn’t just a platform for me; it’s a hub for collaboration, innovation, and shared growth. Whether it's contributing to open-source projects or brainstorming with like-minded developers, I’m always eager to learn, share, and grow.</p>
-    </td>
-    <td>
-      <a href="https://app.daily.dev/briancheruiyot">
-        <img src="https://api.daily.dev/devcards/v2/007AefkoQQQNDSvAju1KA.png?type=default&r=ito" width="350" alt="Brian Cheruiyot's Dev Card"/>
-      </a>
-    </td>
-  </tr>
-</table>
+| The Story | Daily.dev Card |
+|-----------|----------------|
+| <div align="left"> **🧠 The Dreamer** <br> From the highlands of ideas to the valleys of execution, I, <strong>Brian Cheruiyot</strong>, embark on a relentless journey of learning and innovation. <br><br> **🔥 The Learner** <br> Ever since I can remember, the idea of merging technology with the goal of improving lives has been my compass. I'm fascinated by **Artificial Intelligence**, **Clean Technology**, and their promise to build a sustainable and smarter world. I am also currently exploring **JavaScript Frameworks** to refine my skillset. | <a href="https://app.daily.dev/briancheruiyot"><img src="https://api.daily.dev/devcards/v2/007AefkoQQQNDSvAju1KA.png?type=default&r=ito" width="350" alt="Brian Cheruiyot's Dev Card"/></a> |
+</div>
+
 
 ---
 
