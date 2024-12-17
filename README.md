@@ -18,9 +18,9 @@
 ---
 
 ### 📊 GitHub Stats:
-![CheruiyotSeasoned's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CheruiyotSeasoned&theme=radical&show_icons=true&count_private=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CheruiyotSeasoned&layout=compact&langs_count=8&theme=radical)](https://github.com/CheruiyotSeasoned/github-readme-stats)
+| ![CheruiyotSeasoned's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CheruiyotSeasoned&theme=radical&show_icons=true&count_private=true) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CheruiyotSeasoned&layout=compact&langs_count=8&theme=radical)](https://github.com/CheruiyotSeasoned/github-readme-stats) |
+| :---: | :---: |
 
 ---
 
@@ -30,4 +30,3 @@
 ---
 
 ✨ **This repository is special** because it showcases my professional journey, skills, and commitment to innovation. Feel free to connect, collaborate, and explore more! ✨
-
