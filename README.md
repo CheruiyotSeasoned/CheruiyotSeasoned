@@ -11,8 +11,8 @@
 ---
 
 ### 👀 About Me:
-- 🌟 Passionate about **Tech Innovation**, **Backend Development**, **Website Design**, and **Android Applications**.
-- 🛠️ Skilled in **Java Spring Boot**, **PHP (CodeIgniter)**, **Website Development**, and **Java for Android**.
+- 🌟 Passionate about **Tech Innovation**, **Backend Development**, **Website Design** and **Android Applications**.
+- 🛠️ Skilled in **Java Spring Boot**, **PHP (CodeIgniter)**, **Website Development** and **Java for Android**.
 - 🌱 Currently diving deeper into **advanced backend architectures** and **frontend integration** for full-stack mastery.
 - 💞️ Open to collaboration on **GitHub projects**, **bootcamps**, and exciting innovations.
 - 📫 Reach me via email: [briancheruiyot00@gmail.com](mailto:briancheruiyot00@gmail.com)
@@ -36,4 +36,4 @@
 
 ---
 
-✨ **This repository is special** because it showcases my professional journey, skills, and commitment to innovation. Feel free to connect, collaborate, and explore more! ✨
+✨ **This repository is special** because it showcases my professional journey, skills, and commitment to innovation. Feel free to connect, collaborate and explore more! ✨
