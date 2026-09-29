@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Brian%20Cheruiyot&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Payments%20%26%20Tax%20Compliance%20Integrations&descSize=16&descAlignY=58" width="100%"/>
+<img src="./banner.svg" width="100%"/>
 
 <a href="https://cheruiyot.akisolve.com"><img src="https://img.shields.io/badge/Portfolio-cheruiyot.akisolve.com-1f6feb?style=for-the-badge"/></a>
 <a href="https://linkedin.com/in/briancheruiyot"><img src="https://img.shields.io/badge/LinkedIn-briancheruiyot-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -71,6 +71,6 @@ Offline enabler setup, device registration, invoice submission pipeline
 
 **Need eTIMS, EFRIS, or M-Pesa wired into your system? [Email me.](mailto:briancheruiyot00@gmail.com)**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="./footer.svg" width="100%"/>
 
 </div>
