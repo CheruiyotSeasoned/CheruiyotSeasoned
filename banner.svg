@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#1f6feb"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 0 H1200 V170 C1000 215 820 140 600 175 C380 210 200 145 0 180 Z" fill="url(#bg)"/>
+  <text x="600" y="95" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff">Brian Cheruiyot</text>
+  <text x="600" y="138" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#c9d1d9">Backend Developer  |  Payments and Tax Compliance Integrations</text>
+</svg>
