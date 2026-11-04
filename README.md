@@ -2,7 +2,7 @@
 
 <img src="./banner.svg" width="100%"/>
 
-<a href="https://cheruiyot.akisolve.com"><img src="https://img.shields.io/badge/Portfolio-cheruiyot.akisolve.com-1f6feb?style=for-the-badge"/></a>
+<a href="https://akisolve.com"><img src="https://img.shields.io/badge/Portfolio-cheruiyot.akisolve.com-1f6feb?style=for-the-badge"/></a>
 <a href="https://linkedin.com/in/briancheruiyot"><img src="https://img.shields.io/badge/LinkedIn-briancheruiyot-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:briancheruiyot00@gmail.com"><img src="https://img.shields.io/badge/Email-briancheruiyot00%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
